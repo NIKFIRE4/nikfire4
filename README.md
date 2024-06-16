@@ -1,6 +1,7 @@
 # 💫 About Me:
 
 I am a student from St. Petersburg, studying at SUAI in the direction of "applied computer science". I do projects in ML and data science, I also work in algorithms. 
+
 *Хакатон при Уральском Чемпионате по программированию по распознаванию летательных обьектов - 2 место
 *Хакатон Let's hack от хакатоны.рус - 1 место <br>
 
