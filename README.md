@@ -9,7 +9,7 @@ I am a student from St. Petersburg, studying at SUAI in the direction of "applie
 # 📜 Certificates
 Here are some of my certificates:
 
-![Certificate 1]("![image](https://github.com/NIKFIRE4/nikfire4/blob/fcc9f3c07e384913a9632cc053b5140ac5958a58/stepik-certificate-nikitaK-1.png)")
+![Certificate 1](https://github.com/NIKFIRE4/nikfire4/blob/fcc9f3c07e384913a9632cc053b5140ac5958a58/stepik-certificate-nikitaK-1.png)
 
 
 # 💻 Tech Stack:
