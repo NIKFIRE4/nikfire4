@@ -9,7 +9,7 @@ I am a student from St. Petersburg, studying at SUAI in the direction of "applie
 # 📜 Certificates
 Here are some of my certificates:
 
-![Certificate 1]("C:\Users\Никита\Downloads\stepik-certificate-nikitaK.pdf")
+![Certificate 1]("stepik-certificate-nikitaK.pdf")
 
 
 # 💻 Tech Stack:
