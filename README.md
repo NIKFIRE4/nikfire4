@@ -17,5 +17,4 @@ Here are some of my certificates:
 <a href="https://www.leetcode.com/nikfire4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikfire4" height="30" width="40" /></a>
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
