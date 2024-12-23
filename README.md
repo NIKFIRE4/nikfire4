@@ -5,8 +5,8 @@
 Here are some of my certificates:
 
 - [Сертификат о прохождении курса по машинному обучению](https://github.com/NIKFIRE4/nikfire4/blob/fcc9f3c07e384913a9632cc053b5140ac5958a58/stepik-certificate-nikitaK-1.png)
-- [Сертификат с ML хакатона в Уфе](https://github.com/NIKFIRE4/nikfire4/blob/main/2024_май_Уфа_2_место_хакатон%20(2).pdf)
-- [Сертифиткат с хакатона ЛЕТС ХАК](https://github.com/NIKFIRE4/nikfire4/blob/main/IMG_20240621_151936_285%20(1).jpg)
+- [Сертификат 2 места с ML хакатона в Уфе](https://github.com/NIKFIRE4/nikfire4/blob/main/2024_май_Уфа_2_место_хакатон%20(2).pdf)
+- [Сертифиткат 1 места с хакатона ЛЕТС ХАК](https://github.com/NIKFIRE4/nikfire4/blob/main/IMG_20240621_151936_285%20(1).jpg)
 - [Диплом выпускнка акселерационной программы ПромТехДизайн](https://github.com/NIKFIRE4/nikfire4/blob/bbee620d704f4a00db2788491140eb00807203e2/IMG_20241213_105644_060.jpg)
 - [Сертификат участника конференции Питерский Промпт](https://github.com/NIKFIRE4/nikfire4/blob/0458cf17bdc6d3cf9e57b8801afa7de7a07d3bc4/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82_%D0%9F%D0%B8%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%BC%D0%BF%D1%82.pdf)
 
